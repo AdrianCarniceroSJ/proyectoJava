@@ -6,6 +6,8 @@ public class ProyectoGit {
 
 	public static void main(String[] args) {
 		System.out.println("adios mundo");
+		System.out.println("hello");
+		
 		// TODO Auto-generated method stub
 
 	}
